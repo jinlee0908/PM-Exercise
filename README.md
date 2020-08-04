@@ -52,5 +52,6 @@ Protocol: Demos of what has been accomplished will be conducted with Q&A by the 
 
 Outcome: Feedback from team/client ensures alignment of overall goals and there's opportunity to course correct more quickly if something doesn't align. 
   
-  
+### Q & A
+### Next Steps
   
